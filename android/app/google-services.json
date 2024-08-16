@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712735823459",
+    "project_id": "fir-task-648a0",
+    "storage_bucket": "fir-task-648a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712735823459:android:bfa391b5c322fda430ca56",
+        "android_client_info": {
+          "package_name": "com.exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvX2XihC9OgPtR3Nd0-gs1Er0hIqkaMBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712735823459:android:09cfe073c139766c30ca56",
+        "android_client_info": {
+          "package_name": "com.example.firebasetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvX2XihC9OgPtR3Nd0-gs1Er0hIqkaMBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
